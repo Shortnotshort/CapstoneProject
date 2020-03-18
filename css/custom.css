@@ -116,3 +116,35 @@ footer {
 #map {
 	align-content: center;
 }
+
+/* LOGIN PAGE CSS*/ 
+
+.sidelog {
+	background-color: #D3EBD5;
+	color: #000000;
+	height: 500px;
+	padding:40px;
+}
+
+.login-form {
+	padding-top: 40px;
+	padding-right: 20px;
+	padding-left:20px;
+}
+
+.btn-login {
+	font-size: 16px;
+	font-family: 'open sans', sans-serif;
+	margin: 10px;
+	background-color: #d3ebd5;
+	color: #000000;
+	border-color: #d3ebd5;
+}
+
+.dropdown-item:active {
+	background-color:a9e1e3;
+}
+
+label {
+	font-family: 'open sans', sans-serif; 
+}
