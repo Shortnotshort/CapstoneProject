@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+.navbar {
+	background-color: #339999;
+	font-family: 'open sans', sans-serif;
+}
+
+.btn-outline-success {
+	color: #FFFFFF;
+	border-color: #FFFFFF;
+	font-family: 'open sans', sans-serif;
+}
+
+.btn-outline-success:hover {
+	background-color: #a9e1e3;
+    border-color: #a9e1e3;
+}
+
+
+.row1 {
+	text-align:center;
+	min-height: 500px;
+	background-color:#000000;
+	padding-top: 150px;
+}
+
+h1 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 36px;
+	color: #ffffff;
+}
+
+h2 {
+	font-family: 'open sans', sans-serif;
+	font-size:20px;
+	color: #ffffff;
+}
+
+h3 {
+	font-family: 'open sans', sans-serif;
+	font-size:24px;
+	margin: 20px;
+	color: #FFFfff;
+}
+
+h4 {
+	vertical-align:middle;
+	font-family: 'open sans', sans-serif;
+	font-size:20px;
+	margin: 20px;
+}
+
+.btn-secondary {
+	font-size: 16px;
+	font-family: 'open sans', sans-serif;
+	margin: 25px;
+	background-color: #d3ebd5;
+	color: #000000;
+	border-color: #d3ebd5;
+}
+
+.row2 {
+	text-align:center;
+	min-height: 300px;
+	background-color: #46514E;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+
+.row3 {
+	text-align: center;
+	min-height: 250px;
+	max-height:300px;
+}
+
+.row4 {
+	text-align: center;
+	min-height: 250px;
+	max-height:300px;
+}
+
+.block1 {
+	background-color:#FFFFFF;
+	padding-top: 30px;
+	color: #000000;
+}
+
+.block2 {
+	background-color: #339999;
+	padding-top: 30px;
+	color: #FFFFFF;
+	max-height:300px;
+}
+
+.block3 {
+	background-color: #d3ebd5;
+}
+
+.block4 {
+	background-color: #a9e1e3;
+	padding-top: 30px;
+	color: #000000;
+}
+
+footer {
+	min-height: 150px;
+	text-align: center;
+	background-color: #46514E;
+	padding-top:70px;
+	color: #ffffff;
+}
+
+
+
+#map {
+	align-content: center;
+}
